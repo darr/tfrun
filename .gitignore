@@ -1,0 +1,7 @@
+*_env
+*.pyc
+*_log
+*.log
+log
+sqlite_pylog_database.db
+tmp
